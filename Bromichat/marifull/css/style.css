@@ -1,0 +1,73 @@
+body { margin:10px; background-image: url("../images/wall.jpg"); 
+background-repeat: no-repeat;
+background-size: 100%;
+margin:0px;
+}
+
+header{
+  height: 100px;
+  display: flex;
+  width: 100%;
+  background: rgb(197, 149, 149);
+  margin-bottom: 100px;
+}
+
+.imagen-cabezal{
+  height: 100px;
+  width: 300px;
+}
+h2{
+  
+  padding-top: 0px;
+  margin-left: 500px;
+  color: rgb(255, 251, 6);
+  font-family: emoji;
+  font-size: 40px;
+  margin-bottom: 10px;
+
+}
+
+.container {
+  margin-top: 100px;
+  width:800px;
+  margin:0 auto;
+}
+
+.barra {
+  background-color:#000000;
+  color: #ffffff;
+  font-size: 20px;
+  height: 30px; width: 700px;
+  padding: 10px;
+}
+#my_canvas{ 
+  background:#000000; 
+  border:#000 1px solid; 
+}
+.boton{
+    color:rgb(208, 255, 0);
+    font-size: 30px;
+    background-color: #1b0f0f;
+    cursor: pointer;
+    border-radius: 40px;
+    border:2px solid rgb(4, 209, 48);
+    padding: 10px;
+    margin-left: 50px;
+}
+.boton:hover{
+    background-color: white;
+    color: #000000;
+}
+
+footer{
+  margin-top: 100px;
+  height: 80px;
+  display: flex;
+  width: 100%;
+  background: rgb(197, 149, 149);
+}
+
+h5{
+  margin: auto;
+  color: #fff;
+}

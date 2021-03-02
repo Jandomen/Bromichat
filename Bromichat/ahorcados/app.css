@@ -1,0 +1,67 @@
+
+           
+           body{
+                background: rgb(69, 146, 5);
+                width: 100%;
+                margin: 0 ;
+            }
+
+            header{
+                height: 100px;
+                display: flex;
+                width: 100%;
+                background: rgb(197, 149, 149);
+            }
+            
+            .imagen-cabezal{
+                height: 100px;
+                width: 300px;
+            }
+            h2{
+                
+                padding-top: 10px;
+                margin-left: 500px;
+                color: rgb(255, 251, 6);
+                font-family: emoji;
+                font-size: 40px;
+            
+            }
+
+            h1{
+                text-align: center;
+                color: snow;
+            }
+            #pantalla{
+                border: groove 8px rgb(170, 149, 27);
+                background: rgb(248, 178, 28); 
+                margin-left: 200px;  
+            }
+            #boton{
+                background-color: red;
+                color: white;
+                font-size: 20px;
+                text-align: center;
+                font-weight: bolder;
+                padding: 3px;
+                border: solid 2px black;
+                margin: 10px;
+                margin-left: 600px;
+            }
+            #boton:hover{ 
+                background-color: lightcoral;
+                font-size: 21px;
+                border: groove 4px red;
+            }
+
+            footer{
+                height: 80px;
+                display: flex;
+                width: 100%;
+                background: rgb(197, 149, 149);
+            }
+            
+            h5{
+                margin: auto;
+                color: #fff;
+            }
+                  
