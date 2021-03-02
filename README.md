@@ -1,2 +1,0 @@
-# bromichat
-Solo entretenimiento.
